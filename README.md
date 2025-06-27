@@ -134,9 +134,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Muhammad Shaheer Malik**
 
-- 🌐 [Portfolio]([https://your-portfolio-link.com](https://shaheer-portfolio-omega.vercel.app/))
-- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/malik-shaheer03))
-- 🐙 [GitHub]([https://github.com/your-username](https://github.com/malik-shaheer03))
+- 🌐 [Portfolio](https://shaheer-portfolio-omega.vercel.app/)
+- 💼 [LinkedIn](https://linkedin.com/in/malik-shaheer03)
+- 🐙 [GitHub](https://github.com/malik-shaheer03)
 - 📧 [Email](mailto:shaheermalik03@gmail.com)
 - 📸 [Instagram](https://instagram.com/malik_shaheer03)
 
