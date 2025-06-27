@@ -1,0 +1,3 @@
+"""
+Banking module initialization
+"""
