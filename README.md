@@ -12,7 +12,7 @@
 
 ## 🚀 About
 
-Secure Bank is a fully functional, console-based banking system developed in Python. Designed to simulate real-world banking operations, it includes robust authentication, secure session handling, JSON-based file storage, and complete banking features.
+Secure Bank is a fully functional, console-based banking system developed in Python as a **first semester project for the ICT course**. Designed to simulate real-world banking operations, it includes robust authentication, secure session handling, JSON-based file storage, and complete banking features.
 
 🎯 **Perfect for:** Python learners, academic projects, and file-based simulation systems
 
@@ -116,14 +116,6 @@ After login:
 | Transaction Limits | Deposit: $10,000 / Withdraw: $5,000 |
 | File Security | Protected JSON I/O |
 
-## 🔮 Future Enhancements
-
-- 🌐 **Web Interface** – Flask or Django frontend
-- 🗃️ **SQL Database** – Replace JSON with SQLite/PostgreSQL
-- 📲 **Mobile Support** – Cross-platform with Flutter/Kivy
-- 📧 **Email Alerts** – Notifications on transfers/logins
-- 📊 **Analytics Dashboard** – Visual reports & graphs
-
 ## 🤝 Contributing
 
 Contributions are welcome! 🚀
@@ -142,11 +134,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Muhammad Shaheer Malik**
 
-- 🌐 [Portfolio](https://your-portfolio-link.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐙 [GitHub](https://github.com/your-username)
-- 📧 [Email](mailto:your.email@example.com)
-- 📸 [Instagram](https://instagram.com/your-handle)
+- 🌐 [Portfolio]([https://your-portfolio-link.com](https://shaheer-portfolio-omega.vercel.app/))
+- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/malik-shaheer03))
+- 🐙 [GitHub]([https://github.com/your-username](https://github.com/malik-shaheer03))
+- 📧 [Email](mailto:shaheermalik03@gmail.com)
+- 📸 [Instagram](https://instagram.com/malik_shaheer03)
 
 ---
 
